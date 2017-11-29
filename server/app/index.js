@@ -1,0 +1,2 @@
+// Initialize Server
+require('./server');
